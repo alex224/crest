@@ -1,9 +1,9 @@
 {
   "db": {
     "port": 27017,
-    "host": "localhost",
-    "username": "foo",
-    "password": "bar"
+    "host": "192.168.1.85",
+    "username": "",
+    "password": ""
   },
   "server": {
     "port": 3500,
